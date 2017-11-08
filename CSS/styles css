@@ -1,3 +1,17 @@
 h1 {
   colour: red
+  text- align:centre;
+}
+
+
+img {
+  height: 500px;
+  width: 500px;
+  border: solid 10px blue;
+}
+
+#first {
+  height: 200px
+  width: 200px
+  border:0;
 }
